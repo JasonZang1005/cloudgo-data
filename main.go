@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/JasonZang1005/cloudgo/service"
+	"github.com/JasonZang1005/cloudgo-data/service"
 	flag "github.com/spf13/pflag"
 )
 
